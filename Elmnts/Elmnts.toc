@@ -1,0 +1,49 @@
+## Interface: 110200
+## Title: Elements
+## Notes: TBD
+## Author: Exality
+## SavedVariables: ElementsData
+## Version: @project-version@
+
+
+# Core Functionality
+Util.lua 
+Init.lua
+Core.lua
+Data.lua
+
+# Types
+Types/Data.lua
+Types/Options.lua
+
+
+# Frame Components
+Frames/Inputs/Tooltip.lua
+Frames/Inputs/EditBox.lua
+Frames/Inputs/Toggle.lua
+Frames/Inputs/Button.lua
+Frames/Inputs/ToggleButton.lua
+Frames/Inputs/LuaEditor.lua
+Frames/Inputs/Keybind.lua
+Frames/Inputs/Dropdown.lua
+Frames/OptionFrames/ElementItem.lua
+Frames/WindowManager.lua
+Frames/Window.lua
+Frames/ScrollFrame.lua
+Frames/InputGroup.lua
+
+# Element Types
+Elements/Elements.xml
+
+# DataProviders
+# DataProviders/DataProviders.xml
+
+# Options
+Views/Options/Control.lua
+Views/Options/ElementBrowser.lua
+Views/Options/Configuration.lua
+Views/Options/Main.lua
+
+ElementManager.lua
+
+Cmd.lua
